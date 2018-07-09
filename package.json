@@ -1,0 +1,19 @@
+{
+  "name": "lesson_13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Zaliyha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
